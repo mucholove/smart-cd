@@ -1,0 +1,1 @@
+FDD_TOOL_LIBS += -lcurses
